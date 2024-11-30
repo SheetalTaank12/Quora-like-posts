@@ -1,0 +1,58 @@
+body{
+    background-color: bisque;
+    
+}
+
+
+h1{
+    color: maroon;
+}
+.post{
+    background-color: rgb(255, 218, 139);
+    /* width: 500px; */
+    border: 0.5px solid maroon;
+    padding: 4px 7px;
+    margin-bottom: 5px;
+    
+}
+.user{
+    font-style: italic;
+    color: maroon;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.quorabtn {
+    background-color: maroon;
+    
+    
+}
+.quorabtn a{
+    color: white;
+    text-decoration: none;
+}
+.options{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.postbtn{
+    background-color: white;
+    color: maroon;
+    border-color: maroon;
+}
+.postbtn a{
+    color: maroon;
+    text-decoration: none;
+}
+.btns{
+    display: flex;
+    
+    align-items: center;
+    
+}
+.content{
+    background-color: antiquewhite;
+}
